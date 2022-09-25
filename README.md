@@ -1,1 +1,1 @@
-# healthcare_management_system
+# Healthcare Management System
