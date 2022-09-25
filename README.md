@@ -1,6 +1,11 @@
 # Healthcare Management System
 
-![image](https://user-images.githubusercontent.com/62926535/192168543-acc796ed-f584-4693-ba61-683c65c1de9d.png)
+Team Members :
+
+|    Name     |          Email              |   NUID    |
+|  -------    |   ------------------------  | -------   |
+| Anuja Kale  | kale.an@northeastern.edu    | 002700699 |
+| Anuja Shinde| shinde.anuj@northeastern.edu| 002747948 | 
 
 
 
