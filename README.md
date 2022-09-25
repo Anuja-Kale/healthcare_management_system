@@ -15,10 +15,7 @@ The healthcare organization in the United States aims to track and categorize p
 ## Project Description:
 
 •	Patients' data will be categorized in the Healthcare data management system according to their healthcare providers and pharmacies. 
-
-•	Additionally, the medicine distribution system will update the directories of different pharmacies for medication delivery and 
-  extract the patient's medication orders. 
-  
+   
 •	The system is organized as follows: 
 
 1. The healthcare providers will provide services to the patients (Clinics, Hospitals, etc). 
